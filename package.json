@@ -1,0 +1,8 @@
+{
+  "name": "angular-electron-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "install": "bash ./scripts/install.sh",
+    "package-win": "bash ./scripts/ng.sh & bash ./scripts/package-win.sh"
+  }
+}
